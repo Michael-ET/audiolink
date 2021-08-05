@@ -53,7 +53,7 @@ class app extends React.Component{
   }
 
   search(term){
-          spotify.search(term).then(SearchResults => {
+          spotify.SearchBar(term).then(SearchResults => {
             this.setState({SearchResults: SearchResults})
           })
   }
@@ -83,5 +83,3 @@ class app extends React.Component{
 
 
 export default app
-
-<div>
