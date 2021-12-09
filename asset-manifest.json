@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/audiolink/static/css/main.ad660da5.chunk.css",
+    "main.js": "/audiolink/static/js/main.f77c28a8.chunk.js",
+    "main.js.map": "/audiolink/static/js/main.f77c28a8.chunk.js.map",
+    "runtime-main.js": "/audiolink/static/js/runtime-main.ee442c2e.js",
+    "runtime-main.js.map": "/audiolink/static/js/runtime-main.ee442c2e.js.map",
+    "static/js/2.41631448.chunk.js": "/audiolink/static/js/2.41631448.chunk.js",
+    "static/js/2.41631448.chunk.js.map": "/audiolink/static/js/2.41631448.chunk.js.map",
+    "static/js/3.d0a0e89a.chunk.js": "/audiolink/static/js/3.d0a0e89a.chunk.js",
+    "static/js/3.d0a0e89a.chunk.js.map": "/audiolink/static/js/3.d0a0e89a.chunk.js.map",
+    "index.html": "/audiolink/index.html",
+    "static/css/main.ad660da5.chunk.css.map": "/audiolink/static/css/main.ad660da5.chunk.css.map",
+    "static/js/2.41631448.chunk.js.LICENSE.txt": "/audiolink/static/js/2.41631448.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/audiolink/static/media/BCnjKz.052c777b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee442c2e.js",
+    "static/js/2.41631448.chunk.js",
+    "static/css/main.ad660da5.chunk.css",
+    "static/js/main.f77c28a8.chunk.js"
+  ]
+}
